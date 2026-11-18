@@ -1,0 +1,8 @@
+{
+  "name": "openjutsu",
+  "version": "1.0.0",
+  "description": "Set up, run and get good results from Openjutsu, a local open-source character and object swap for video built on ComfyUI and MiniMax H3: simple and advanced motion transfer, object swap, From picture with relighting, and face and colour fixes.",
+  "repository": "https://github.com/Achi-Akira/openjutsu",
+  "license": "MIT",
+  "keywords": ["video", "character-swap", "comfyui", "minimax-h3", "sam", "motion-transfer", "relight", "local-ai"]
+}
